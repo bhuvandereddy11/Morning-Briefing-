@@ -1,3 +1,6 @@
+# Claude Code local settings
+.claude/
+
 # Personal config (don't share your URLs publicly)
 .ok-claude.json
 ~/.ok-claude.json
