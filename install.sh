@@ -45,8 +45,6 @@ echo "✓ pyaudio installed"
 
 # Make scripts executable
 chmod +x wake_word_listener.py
-chmod +x scripts/open_tabs.sh
-chmod +x raycast/ok_claude.sh
 echo "✓ Scripts made executable"
 
 echo ""
@@ -55,13 +53,11 @@ echo "✅ Installation complete!"
 echo ""
 echo "Next steps:"
 echo ""
-echo "  1. Edit your URLs in wake_word_listener.py"
-echo "     (look for the URLS = [...] section near the top)"
-echo ""
-echo "  2. Run the listener:"
+echo "  1. Run the listener:"
 echo "     python3 wake_word_listener.py"
 echo ""
-echo "  3. Say \"ok claude\" and watch your tabs open! 🚀"
+echo "  2. Say \"good morning\" (or \"hey claude good morning\")"
+echo "     → Claude will read your app notifications and iMessages aloud."
 echo ""
 echo "  Optional — auto-start on login:"
 echo "     See README.md → 'Run on startup' section"
