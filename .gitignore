@@ -1,0 +1,19 @@
+# Personal config (don't share your URLs publicly)
+.ok-claude.json
+~/.ok-claude.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+*.swp
+
+# Logs
+*.log
+/tmp/ok-claude.log
