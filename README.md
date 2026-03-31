@@ -1,5 +1,7 @@
 # Morning Briefing
 
+> **Sunday fun project — vibe coded in under 20 minutes. Don't expect production quality.**
+
 > Say **"good morning"** and your Mac reads your notifications aloud.
 
 A lightweight macOS wake word listener that delivers a spoken morning briefing — app badge counts and unread iMessages — the moment you say the magic words.
