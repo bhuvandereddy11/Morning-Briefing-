@@ -1,11 +1,4 @@
 {
-  "wake_words": ["ok claude", "okay claude", "hey claude", "morning routine"],
-  "browser": "Google Chrome",
-  "cooldown_seconds": 5,
-  "urls": [
-    "https://claude.ai",
-    "https://mail.google.com",
-    "https://linkedin.com/feed",
-    "https://notion.so"
-  ]
+  "morning_words": ["good morning"],
+  "cooldown_seconds": 30
 }
