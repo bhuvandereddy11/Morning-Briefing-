@@ -1,9 +1,8 @@
 # Claude Code local settings
 .claude/
 
-# Personal config (don't share your URLs publicly)
+# Personal config
 .ok-claude.json
-~/.ok-claude.json
 
 # Python
 __pycache__/

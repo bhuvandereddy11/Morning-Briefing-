@@ -17,7 +17,6 @@ MORNING_WORDS = ["good morning"]  # triggers on any phrase containing "good morn
 
 COOLDOWN_SECONDS = 30  # long enough to cover the full briefing
 LANGUAGE = "en-US"
-MAX_NOTIFICATIONS = 10
 
 CONFIG_FILE  = os.path.expanduser("~/.ok-claude.json")
 is_speaking  = threading.Event()  # set while say() is running — blocks re-triggers
